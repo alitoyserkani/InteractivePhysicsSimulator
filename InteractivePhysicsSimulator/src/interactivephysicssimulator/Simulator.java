@@ -33,6 +33,7 @@ public class Simulator implements MouseListener {
     
     ArrayList<Vector> ballVels = new ArrayList();
     
+    
     Vector acceleration = SimulatorGUI.acceleration; //acceleration (gravity) of the simulation
     
     
